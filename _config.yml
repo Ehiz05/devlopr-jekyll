@@ -1,10 +1,10 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Personal portfolio
+subtitle: Mobile application development with Flutter  Dart
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Ehiz05.github.io"" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/devlopr-jekyll" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -71,31 +71,29 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: chase_log
+github_username:  Ehiz05
+facebook_username: SundayOwonka
+linkedin_username: SundayOwonka
+behance_username: N/A
+instagram_username: N/A
+medium_username: N?A
+telegram_username: SundayOwonka
+
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
 hyvor_talk_website_id: 476
 
-# wakatime username (coding activity)
-wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: https://sunday.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: sundayowonka@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
