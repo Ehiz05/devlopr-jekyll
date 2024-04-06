@@ -1,5 +1,7 @@
+# Here's a modification of portfolio theme
 title: Personal portfolio
 subtitle: Mobile application development with Flutter  Dart
+
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
